@@ -1,6 +1,3 @@
-# IntrusionDetection_CICIDS2018
-
-
 # CICIDS2018 Data Cleaning and Preprocessing
 
 This project involves loading, cleaning, and preprocessing a large dataset from the CICIDS2018 intrusion detection dataset. The steps involved in this project are outlined below:
